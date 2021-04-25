@@ -25,6 +25,6 @@ public class Main {
         } else {
             System.out.println("输入格式正确");
         }
-        //0423-yinjie   0425提交的代码，准备合并到yinjie分支
+        //0423-yinjie
     }
 }
