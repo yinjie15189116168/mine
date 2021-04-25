@@ -28,13 +28,8 @@ public class Main {
         Long now = System.currentTimeMillis();
         LocalDateTime localDateTime ;
 
-        //测试合并代码
+        //0423-yinjie分支在0425提交的代码，准备合并到yinjie分支
 
-
-        //尹杰分支提交代码合并到master
-
-
-        //在yinjie分支上提交的  准备提交到0423_yinjie上
-
+        //yinjie分支在0425提交的代码，已解决与0423-尹杰分支的冲突，准备合并到master分支
     }
 }
