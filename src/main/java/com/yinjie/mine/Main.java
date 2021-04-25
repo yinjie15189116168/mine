@@ -25,9 +25,6 @@ public class Main {
         } else {
             System.out.println("输入格式正确");
         }
-        Long now = System.currentTimeMillis();
-        LocalDateTime localDateTime ;
-
-        //0423-yinjie分支在0425提交的代码，准备合并到yinjie分支
+        //0423-yinjie   0425提交的代码，准备合并到yinjie分支
     }
 }
