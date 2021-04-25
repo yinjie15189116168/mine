@@ -28,5 +28,7 @@ public class Main {
         //0423-yinjie   0425提交的代码，准备合并到yinjie分支
 
         //yinjie    0425提交的代码，已经合并0423-尹杰分支提交的代码，准备合并到master分支
+
+        //master    0425提交的代码，已经合并0423-yinjie分支与yinjie分支的代码，准备提交到master分支
     }
 }
