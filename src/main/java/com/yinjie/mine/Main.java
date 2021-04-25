@@ -25,8 +25,8 @@ public class Main {
         } else {
             System.out.println("输入格式正确");
         }
-        //0423-yinjie
+        //0423-yinjie分支
 
-        //yinjie
+        //yinjie分支
     }
 }
