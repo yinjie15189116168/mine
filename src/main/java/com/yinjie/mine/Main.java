@@ -26,5 +26,7 @@ public class Main {
             System.out.println("输入格式正确");
         }
         //0423-yinjie   0425提交的代码，准备合并到yinjie分支
+
+        //yinjie    0425提交的代码，已经合并0423-尹杰分支提交的代码，准备合并到master分支
     }
 }
